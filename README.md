@@ -43,8 +43,6 @@
   <img width="12" />
   <img src="https://companieslogo.com/img/orig/AKAM-3e9b2ed5.svg?t=1720244490&download=true" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://companieslogo.com/img/orig/HPE-47034a31.svg?t=1720244492&download=true" height="20" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://companieslogo.com/img/orig/DELL-d091c9c7.svg?t=1720244491&download=true" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://companieslogo.com/img/orig/RDWR-e6565290.png?t=1720244493&download=true" height="40" alt="circleci logo"  />
