@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm @TheBear90 from ARG <br><br>- 🔭 I’m working as Cybersecurity Engineer <br>- 📚 I'm currently learning IA and IA Security <br>- ⚡ In my free time I play Rugby 👀 Fun fact: Without mate there is no life </p> 
 
 ###
 
@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://www.f5.com/content/dam/f5-com/global-assets/press-kit/digital/f5-logo-rgb.png" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
@@ -63,12 +63,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###- 👋 Hello, I’m @TheBear90
-- 👀 I’m interested in IT, AI, Technology and Cybersecurity
-- 🌱 I’m currently learning AI for cybernetics.
-- 💞️ I’m looking to collaborate as much as I can, I’m interested in using my knowledge
-- ⚡ Fun fact: Without mate there is no life
 
 <!---
 TheBear90/TheBear90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
