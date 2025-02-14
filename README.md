@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img src="https://www.f5.com/content/dam/f5-com/global-assets/press-kit/digital/f5-logo-rgb.png" height="40" alt="go logo"  />
+  <img src="https://www.f5.com/content/dam/f5-com/global-assets/press-kit/digital/f5-logo-rgb.png" height="45" alt="go logo"  />
   <img width="12" />
   <img src="https://companieslogo.com/img/orig/FTNT-745f92ba.png?t=1720244491" height="40" alt="rust logo"  />
   <img width="12" />
@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://companieslogo.com/img/orig/MSFT-7d7cf874.svg?t=1722952497&download=true" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://companieslogo.com/img/orig/ATEN-e1df15d5.svg?t=1720244490&download=true" height="40" alt="docker logo"  />
+  <img src="https://companieslogo.com/img/orig/ATEN-e1df15d5.svg?t=1720244490&download=true" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://companieslogo.com/img/orig/VRNS-bc09c86a.svg?t=1720244494&download=true" height="40" alt="docker logo"  />
   <img width="12" />
