@@ -57,8 +57,9 @@ I'm @TheBear90 from ARG <br><br>- 🔭 I’m working as Cybersecurity Engineer <
 ###
 
 <div align="center">
-  
-[Dark](https://github-readme-stats.vercel.app/api?username=TheBear90&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TheBear90&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 </div>
 
 <!---
