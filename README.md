@@ -11,7 +11,8 @@
 ###
 
 <h1 align="center">Hi 👋, I'm The Bear</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="center">A passionate consultant on cybersecurity from Argentina</h3>
 
 - 🔭 I’m currently working as **Cybersecurity Engineer**
 
