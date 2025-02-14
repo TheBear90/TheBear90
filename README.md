@@ -19,8 +19,8 @@
 ###
 
 <div align="center">
-<h1  I'm @TheBear90 from ARG <br><br>- 🔭 I’m working as Cybersecurity Engineer <br>- 📚 I'm currently learning IA and IA Security <br>- ⚡ In my free time I play Rugby 
-<h1  👀 Fun fact: Without mate there is no life </p> 
+I'm @TheBear90 from ARG <br><br>- 🔭 I’m working as Cybersecurity Engineer <br>- 📚 I'm currently learning IA and IA Security <br>- ⚡ In my free time I play Rugby 
+👀 Fun fact: Without mate there is no life </p> 
 
 ###
 
