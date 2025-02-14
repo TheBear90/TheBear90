@@ -37,21 +37,25 @@
 <div align="left">
   <img src="https://www.f5.com/content/dam/f5-com/global-assets/press-kit/digital/f5-logo-rgb.png" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/90c4e808-6f90-4daa-b7a6-d2c9c0e11765" height="40" alt="rust logo"  />
+  <img src="https://companieslogo.com/img/orig/FTNT-745f92ba.png?t=1720244491" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/d9e1c49b-3f40-4671-8fd6-95e4fb27c3c0" height="40" alt="ruby logo"  />
+  <img src="https://companieslogo.com/img/orig/ANET-9ca7c0ac.svg?t=1720244490&download=true" height="40" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/7ed6705d-6a72-4e18-97e1-9e2bde3059b6" height="40" alt="dot-net logo"  />
+  <img src="https://companieslogo.com/img/orig/AKAM-3e9b2ed5.svg?t=1720244490&download=true" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://companieslogo.com/img/orig/HPE-47034a31.svg?t=1720244492&download=true" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://companieslogo.com/img/orig/DELL-d091c9c7.svg?t=1720244491&download=true" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img src="https://companieslogo.com/img/orig/RDWR-e6565290.png?t=1720244493&download=true" height="40" alt="circleci logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://companieslogo.com/img/orig/MSFT-7d7cf874.svg?t=1722952497&download=true" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://companieslogo.com/img/orig/ATEN-e1df15d5.svg?t=1720244490&download=true" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://companieslogo.com/img/orig/VRNS-bc09c86a.svg?t=1720244494&download=true" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://companieslogo.com/img/orig/PANW-442e45fd.svg?t=1720244493&download=true" height="40" alt="docker logo"  />
 </div>
 
 ###
