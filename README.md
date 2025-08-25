@@ -113,7 +113,7 @@
 
 <h2 align="center"> Profile Contrib</h2>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](profile-3d-contrib/profile-night-green.svg)
 
 ###
 
