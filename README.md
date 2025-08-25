@@ -94,7 +94,6 @@
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
-<a href="#"><img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"></a>
 </p>
 
 <h4 align="center">☁ Cloud and Providers</h4>
