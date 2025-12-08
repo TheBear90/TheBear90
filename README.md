@@ -29,7 +29,7 @@
 <h4 align="center">🛠 Tools I worked with</h4>
 
 <div align="center">
-<img src="https://www.f5.com/content/dam/f5-com/global-assets/press-kit/digital/f5-logo-rgb.png" height="20"  />
+<img src="https://companieslogo.com/img/orig/FFIV-bb8852d2.png?t=1740290345&download=true" height="20"  />
 <img width="12" />
 <img src="https://companieslogo.com/img/orig/FTNT-745f92ba.png?t=1720244491" height="20"  />
 <img width="12" />
