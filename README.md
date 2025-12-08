@@ -47,17 +47,17 @@
 <img width="12" />
 <img src="https://companieslogo.com/img/orig/PANW-442e45fd.svg?t=1720244493&download=true" height="20"  />
 <img width="12" />
-<img src="https://companieslogo.com/img/orig/NET_BIG.D-52893f5e.png?t=1724398565&download=true" height="20"  />
+<img src="https://companieslogo.com/img/orig/NET-6676335b.png?t=1724398565&download=true" height="20"  />
 <img width="12" />
-<img src="https://companieslogo.com/img/orig/NTCT_BIG.D-c6da5753.png?t=1720244493&download=true" height="20"  />
+<img src="https://companieslogo.com/img/orig/NTCT-ecd5d6de.png?t=1720244493&download=true" height="20"  />
 <img width="12" />
-<img src="https://companieslogo.com/img/orig/MFGP_BIG-8ba952db.png?t=1720244492&download=true" height="20"  />
+<img src="https://companieslogo.com/img/orig/MFGP-1d9cbb74.png?t=1720244492&download=true" height="20"  />
 <img width="12" />
-<img src="https://companieslogo.com/img/orig/TENB_BIG.D-47f49a45.png?t=1720244494&download=true" height="20"  />
+<img src="https://companieslogo.com/img/orig/TENB.D-9c0aca48.png?t=1720244494&download=true" height="20"  />
 <img width="12" />
 <img src="https://companieslogo.com/img/orig/QLYS-68c2032c.png?t=1720244493&download=true" height="20"  />
 <img width="12" />
-<img src="https://companieslogo.com/img/orig/VMW.D-2db86bb7.png?t=1720244494&download=true" height="20"  />
+<img src="https://companieslogo.com/img/orig/VMW.D-2db86bb7.png?t=1720244494&download=true" height="16"  />
 <img width="12" />
 <img src="" height="20"  />
 <img width="12" />
