@@ -61,7 +61,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"  />
 <img width="12" />
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-aibxb&psig=AOvVaw3Jo7L9MpkUJwc8Y2mY22ZL&ust=1765283742186000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjl28WArpEDFQAAAAAdAAAAABAE" height="20"  />
+<img src="https://freepnglogo.com/image/amazon-web-services-logo-png" height="20"  />
 <img width="12" />
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="20"  />
 <img width="12" />
