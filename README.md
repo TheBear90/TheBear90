@@ -35,8 +35,6 @@
 <img width="12" />
 <img src="https://companieslogo.com/img/orig/ANET-9ca7c0ac.svg?t=1720244490&download=true" height="20"  />
 <img width="12" />
-<img src="https://companieslogo.com/img/orig/AKAM-3e9b2ed5.svg?t=1720244490&download=true" height="20"  />
-<img width="12" />
 <img src="https://companieslogo.com/img/orig/DELL-d091c9c7.svg?t=1720244491&download=true" height="20"  />
 <img width="12" />
 <img src="https://companieslogo.com/img/orig/RDWR-e6565290.png?t=1720244493&download=true" height="20"  />
