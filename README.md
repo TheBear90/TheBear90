@@ -61,7 +61,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"  />
 <img width="12" />
-<img src="https://lobehub.com/icons/aws" height="20"  />
+<img src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg" height="20"  />
 <img width="12" />
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="20"  />
 <img width="12" />
