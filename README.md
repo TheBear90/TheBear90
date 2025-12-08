@@ -41,7 +41,7 @@
 <img width="12" />
 <img src="https://companieslogo.com/img/orig/MSFT-7d7cf874.svg?t=1722952497&download=true" height="20"  />
 <img width="12" />
-<img src="https://companieslogo.com/img/orig/ATEN-e1df15d5.svg?t=1720244490&download=true" height="20"  />
+<img src="https://companieslogo.com/img/orig/ATEN-e1df15d5.svg?t=1720244490&download=true" height="16"  />
 <img width="12" />
 <img src="https://companieslogo.com/img/orig/VRNS.D-3411fbcf.png?t=1741410520&download=true" height="20"  />
 <img width="12" />
@@ -58,8 +58,6 @@
 <img src="https://companieslogo.com/img/orig/QLYS-68c2032c.png?t=1720244493&download=true" height="20"  />
 <img width="12" />
 <img src="https://companieslogo.com/img/orig/VMW.D-2db86bb7.png?t=1720244494&download=true" height="16"  />
-<img width="12" />
-<img src="" height="20"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"  />
 <img width="12" />
