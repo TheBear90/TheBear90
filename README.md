@@ -47,7 +47,7 @@
 <img width="12" />
 <img src="https://companieslogo.com/img/orig/PANW-442e45fd.svg?t=1720244493&download=true" height="20"  />
 <img width="12" />
-<img src="https://companieslogo.com/img/orig/NET-6676335b.png?t=1724398565&download=true" height="20"  />
+<img src="https://companieslogo.com/img/orig/NET-6676335b.png?t=1724398565&download=true" height="16"  />
 <img width="12" />
 <img src="https://companieslogo.com/img/orig/NTCT-ecd5d6de.png?t=1720244493&download=true" height="20"  />
 <img width="12" />
