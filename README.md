@@ -61,7 +61,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"  />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="20"  />
+<img src="https://tse4.mm.bing.net/th/id/OIP.daalQaMMQPaCg9DT7S0K2gHaD-?cb=ucfimg2&ucfimg=1&w=820&h=440&rs=1&pid=ImgDetMain&o=7&rm=3" height="20"  />
 <img width="12" />
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="20"  />
 <img width="12" />
