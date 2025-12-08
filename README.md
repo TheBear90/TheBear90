@@ -43,7 +43,7 @@
 <img width="12" />
 <img src="https://companieslogo.com/img/orig/ATEN-e1df15d5.svg?t=1720244490&download=true" height="20"  />
 <img width="12" />
-<img src="https://companieslogo.com/img/orig/VRNS-bc09c86a.svg?t=1720244494&download=true" height="20"  />
+<img src="https://companieslogo.com/img/orig/VRNS.D-3411fbcf.png?t=1741410520&download=true" height="20"  />
 <img width="12" />
 <img src="https://companieslogo.com/img/orig/PANW-442e45fd.svg?t=1720244493&download=true" height="20"  />
 <img width="12" />
