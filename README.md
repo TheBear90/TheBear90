@@ -135,14 +135,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 📊 GitHub Stats:
-<h4 align="center">![](https://github-readme-stats.vercel.app/api?username=TheBear90&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/></h4>
-<h4 align="center">![](https://nirzak-streak-stats.vercel.app/?user=TheBear90&theme=dark&hide_border=false)<br/></h4>
-<h4 align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBear90&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</h4>
+[![](https://github-readme-stats.vercel.app/api?username=TheBear90&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![](https://nirzak-streak-stats.vercel.app/?user=TheBear90&theme=dark&hide_border=false)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBear90&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<h4 align="center">![](https://github-profile-trophy.vercel.app/?username=TheBear90&theme=radical&no-frame=false&no-bg=true&margin-w=4)</h4>
+[![](https://github-profile-trophy.vercel.app/?username=TheBear90&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<h4 align="center">[![](https://visitcount.itsvg.in/api?id=TheBear90&icon=0&color=0)](https://visitcount.itsvg.in)</h4>
+[![](https://visitcount.itsvg.in/api?id=TheBear90&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
