@@ -136,8 +136,8 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
+<h2 align="center">
 ![](https://github-readme-stats.vercel.app/api?username=TheBear90&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TheBear90&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBear90&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+</h2>
